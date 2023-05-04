@@ -3,6 +3,7 @@
     justify-content: center;
     align-items: center;
     background-color: lightblue;
+    flex-wrap: wrap
 }
 .box1,.box2,.box3{
     width: 100px;
